@@ -30,7 +30,7 @@ Otrzymujemy wynik
 
 `Druga liczba 30`
 
-`Suma: 30.0`
+`Suma: 50.0`
 
 Metoda umieszczana na drugim komputerze może pobierać argumenty w postaci prostych typów danych ale także i obiektów. W takim przypadku obiekt powinien być zserializowany.
 
