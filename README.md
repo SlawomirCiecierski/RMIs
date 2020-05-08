@@ -3,7 +3,7 @@ Zdalne wywołanie metod (RMI - Remote Method Invocation) pozwala obiektom  na wy
 Funkcjonalność ta pozwala na pisanie aplikacji rozproszonych.
 ### Uwaga
 Przykład zastosowano na maszynie lokalnej. 
-Pdczas stosowania RMI mogą odezwać się mechanizmy zabezpieczeń.
+Podczas stosowania RMI mogą odezwać się mechanizmy zabezpieczeń.
 #### Opis.
 Po napisaniu kodu źródłowego w 4 plikach kompilujemy je
 `javac AddServerIntf.java`
