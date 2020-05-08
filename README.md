@@ -1,8 +1,3 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/SlawomirCiecierski/RMIs.git
-git push -u origin master
 
 #RMI
 Zdalne wywołanie metod (RMI - Remote Method Invocation) pozwala obiektom  na wywoływanie metod obiektów zdefiniowanych w języku Java umieszczonych na innej maszynie posługując się protokołem RMI.
