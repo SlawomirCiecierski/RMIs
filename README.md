@@ -13,7 +13,7 @@ Po napisaniu kodu źródłowego w 4 plikach kompilujemy je
 
 `javac AddServer.java`
 
-`AddClient.java`
+`javac AddClient.java`
 
 Uruchamiamy rejestr RMI na serwerze
 `start rmiregistry`
