@@ -1,4 +1,3 @@
-
 #RMI
 Zdalne wywołanie metod (RMI - Remote Method Invocation) pozwala obiektom  na wywoływanie metod obiektów zdefiniowanych w języku Java umieszczonych na innej maszynie posługując się protokołem RMI.
 Funkcjonalność ta pozwala na pisanie aplikacji rozproszonych.
