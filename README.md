@@ -5,7 +5,7 @@ Funkcjonalność ta pozwala na pisanie aplikacji rozproszonych.
 Przykład zastosowano na maszynie lokalnej. 
 Podczas stosowania RMI mogą odezwać się mechanizmy zabezpieczeń.
 #### Opis.
-Po napisaniu kodu źródłowego w 4 plikach kompilujemy je
+Po napisaniu kodu źródłowego w 4 plikach kompilujemy je za pomocą komend: 
 
 `javac AddServerIntf.java`
 
@@ -16,12 +16,15 @@ Po napisaniu kodu źródłowego w 4 plikach kompilujemy je
 `javac AddClient.java`
 
 Uruchamiamy rejestr RMI na serwerze komendą: 
+
 `start rmiregistry`
 
 Uruchamiamy serwer poleceniem:  
+
 `java AddServer`
 
 Uruchamiamy klienta poleceniem: 
+
 `java AddClient 127.0.0.1 20 30`
 
 Otrzymujemy wynik: 
